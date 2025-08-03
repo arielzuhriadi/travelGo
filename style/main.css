@@ -1,0 +1,30 @@
+nav {
+    z-index: 3;
+}
+
+#dash {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+#logo {
+    width: 10%;
+}
+
+a {
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
+#serv .card {
+    height: 500px;
+}
+
+#services img {
+    height: 250px;
+}
+
+
+#galery img{
+    height: 40vh;
+}
