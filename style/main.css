@@ -1,6 +1,10 @@
+html, body {
+  overflow-x: hidden;
+}
+
+
 nav {
     z-index: 3;
-    overflow-x: hidden;
 }
 
 #dash {
@@ -29,4 +33,5 @@ a {
 #galery img{
     height: 40vh;
 }
+
 
